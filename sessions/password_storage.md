@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Password Storage
+title: Password Storage 
 video_src: https://www.youtube-nocookie.com/embed/xZ5cxxllgP8
 ---
 
 In this session we'll discuss methods of securely storing passwords and what to watch out for.
 
-What you'll learn
+What you'll learn of course!
 -----------------
 
 - Use Bcrypt (or Scrypt)
